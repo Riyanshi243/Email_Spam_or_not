@@ -1,1 +1,1 @@
-# Email_Spam_or_not
+# Email_Spam_Detector
